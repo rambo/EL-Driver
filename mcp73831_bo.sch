@@ -7738,7 +7738,7 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 <part name="LED1" library="SparkFun-LED" deviceset="LED" device="0603"/>
 <part name="U$4" library="SparkFun-Aesthetics" deviceset="5V" device=""/>
 <part name="C1" library="rcl" deviceset="C-EU" device="C0805" value="4.7uF+"/>
-<part name="R1" library="rcl" deviceset="R-US_" device="M0805" value="2-7k"/>
+<part name="R1" library="rcl" deviceset="R-US_" device="M0805" value="2-22k (=500-50mA)"/>
 </parts>
 <sheets>
 <sheet>
