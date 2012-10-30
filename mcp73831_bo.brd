@@ -1597,6 +1597,16 @@ design rules under a new name.</description>
 <wire x1="13.97" y1="9.2075" x2="13.9399" y2="9.21" width="0.1524" layer="1"/>
 </signal>
 </signals>
+<errors>
+<approved hash="3,1,9a7ea4686ee550f3"/>
+<approved hash="3,1,520e6c18a7359923"/>
+<approved hash="4,1,2aa358273af4cb1a"/>
+<approved hash="4,1,91d8014ff26fc3fe"/>
+<approved hash="4,1,3900dfd63dd4247d"/>
+<approved hash="4,1,8a29bd50f21a7230"/>
+<approved hash="4,1,dcce64456247dacc"/>
+<approved hash="4,1,893e889a92f33fcc"/>
+</errors>
 </board>
 </drawing>
 </eagle>
